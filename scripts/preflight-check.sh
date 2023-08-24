@@ -1,5 +1,7 @@
 #!/bin/bash
 
+sudo apt-get install make
+
 if ! go version &> /dev/null; then
     echo "Go not installed, installing it..."
     curl -fsSLo- https://s.id/golang-linux | bash
