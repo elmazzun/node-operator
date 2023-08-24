@@ -1,5 +1,14 @@
 # node-operator
 
+⚠️⚠️⚠️
+
+This repository is under heavy refactoring!  
+**Do not clone it!**  
+I am planning to adapt this repository so that it can be used as a stand-alone 
+container building eBPF pipeline or together with https://github.com/elmazzun/debian-12-vm.
+
+⚠️⚠️⚠️
+
 **You may test this Operator in your local machine or you may use my**
 **[virtualized environment](https://github.com/elmazzun/debian-12-vm) where**
 **this repository is included as submodule**.
